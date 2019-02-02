@@ -1,7 +1,7 @@
 // write your code below!
 function happyHolidays() 
 {
-  return "Happy Holidays!";
+  return "Happy holidays!";
 }
 
 function happyHolidaysTo(name) 
@@ -17,5 +17,5 @@ function happyHolidayTo(holiday, name)
 
 function holidayCountdown(days, holidays) 
 {
-  return 'It\'s 20 days until Mother\'s Day';
+  return 'It\'s 20 days until Mother\'s Day!';
 }
