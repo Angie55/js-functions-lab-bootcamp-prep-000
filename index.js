@@ -3,9 +3,11 @@ function happyHolidays() {
   return "happyHolidays";
 }
 
-function happyHolidaysTo() {
-  return 'Happ holidays, ${name}!';
+function happyHolidaysTo(name) {
+  return 'Happy holidays, ${name}!';
 }
+
+
 
 function holidayCountdown(days, holidays) {
   return 'It\'s ${days} until ${holidy}!';
